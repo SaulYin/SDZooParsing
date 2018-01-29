@@ -1,0 +1,16 @@
+USA#CA#San Diego#Ape Cam#http://polarplunge.player.camzonecdn.com/v1.0/CamzoneStreamPlayer?iframe=yes&channel=ape&muted=yes&mutebutton=no&czlogourl=&toolbar=always&backgroundcolor=000000&toolbarbgcolor=ffffff&toolbaralpha=100&toolbartextcolor=000000&epostcard=yes&toolbartype=new&toolbarposition=topright#32.735316#-117.149046
+
+USA#CA#San Diego#Condor Cam#http://zssd-condor.player.camzonecdn.com/v1.2/CamzoneStreamPlayer?iframe=yes&channel=zssd-condorhd&muted=yes&mutebutton=no&czlogourl=&toolbar=always&backgroundcolor=000000&toolbarbgcolor=ffffff&toolbaralpha=100&toolbartextcolor=000000&epostcard=yes&toolbartype=new&toolbarposition=topright#32.735316#-117.149046
+
+USA#CA#San Diego#Elephant Cam#http://elephants.player.camzonecdn.com/v1.2/CamzoneStreamPlayer?iframe=yes&channel=elephants&muted=yes&mutebutton=no&czlogourl=&toolbar=always&backgroundcolor=000000&toolbarbgcolor=ffffff&toolbaralpha=100&toolbartextcolor=000000&epostcard=yes&toolbartype=new&toolbarposition=topright#33.0974458#-116.9957227
+
+USA#CA#San Diego#Koala Cam#http://zssd-koala.player.camzonecdn.com/v1.0/CamzoneStreamPlayer?iframe=yes&channel=zssd-koala&muted=yes&mutebutton=no&czlogourl=&toolbar=always&backgroundcolor=000000&toolbarbgcolor=ffffff&toolbaralpha=100&toolbartextcolor=000000&epostcard=yes&toolbartype=new&toolbarposition=topright#32.735316#-117.149046
+
+USA#CA#San Diego#Panda Cam#http://zssd-panda.player.camzonecdn.com/v1.2/CamzoneStreamPlayer?iframe=yes&channel=zssd-panda&muted=yes&mutebutton=no&czlogourl=&toolbar=always&backgroundcolor=000000&toolbarbgcolor=ffffff&toolbaralpha=100&toolbartextcolor=000000&epostcard=yes&toolbartype=new&toolbarposition=topright#32.735316#-117.149046
+
+USA#CA#San Diego#Our Future#http://zssd-penguin.player.camzonecdn.com/v1.0/CamzoneStreamPlayer?iframe=yes&channel=zssd-penguin&muted=yes&mutebutton=no&czlogourl=&toolbar=always&backgroundcolor=000000&toolbarbgcolor=ffffff&toolbaralpha=100&toolbartextcolor=000000&epostcard=yes&toolbartype=new&toolbarposition=topright#32.735316#-117.149046
+
+USA#CA#San Diego#Polar Cam#http://polarplunge.player.camzonecdn.com/v1.0/CamzoneStreamPlayer?iframe=yes&channel=polarplunge&muted=yes&mutebutton=no&czlogourl=&toolbar=always&backgroundcolor=000000&toolbarbgcolor=ffffff&toolbaralpha=100&toolbartextcolor=000000&epostcard=yes&toolbartype=new&toolbarposition=topright#32.735316#-117.149046
+
+USA#CA#San Diego#Tiger Cam#http://zssd-tiger.player.camzonecdn.com/v1.2/CamzoneStreamPlayer?iframe=yes&channel=zssd-tiger&muted=yes&mutebutton=no&czlogourl=&toolbar=always&backgroundcolor=000000&toolbarbgcolor=ffffff&toolbaralpha=100&toolbartextcolor=000000&epostcard=yes&toolbartype=new&toolbarposition=topright#33.0974458#-116.9957227
+
